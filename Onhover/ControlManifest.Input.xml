@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="onhoverPcfARv4" constructor="Onhoverv4" version="0.0.1" display-name-key="Onhover" description-key="Onhover description" control-type="standard" >
+  
+    <external-service-usage enabled="false">
+    
+    </external-service-usage>
+    
+    <property name="CHeight" display-name-key="height" description-key="Property_Desc_Key" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="CWidth" display-name-key="width" description-key="Property_Desc_Key" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="HoverToggle" display-name-key="hoverToggle" description-key="Property_Desc_Key" of-type="TwoOptions" usage="bound" required="true" />
+    <property name="ClickToggle" display-name-key="clickToggle" description-key="Property_Desc_Key" of-type="TwoOptions" usage="bound" required="true" />
+    <property name="X_coordinate" display-name-key="x_coordinate" description-key="Property_Desc_Key" of-type="Decimal" usage="bound" required="true" />
+    <property name="Y_coordinate" display-name-key="y_coordinate" description-key="Property_Desc_Key" of-type="Decimal" usage="bound" required="true" />
+    
+    <resources><code path="index.ts" order="1"/></resources>
+
+  </control>
+</manifest>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y0DpaboMkTA7hOBsEzqAtwrLAc7Iov1J1MyyrdAhRXS6kx4cJXdL/Yr6E6TmnTiOvPM9+4Xhi1TGlKWyDH8JAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A\\Desktop\\onhoverpcf\\OnHoverSolnV3\\OnHoverSolnV4\\OnHoverSolnV4.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.22.4\\microsoft.powerapps.msbuild.pcf.1.22.4.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.22.4\\microsoft.powerapps.msbuild.solution.1.22.4.nupkg.sha512"
+  ],
+  "logs": []
+}

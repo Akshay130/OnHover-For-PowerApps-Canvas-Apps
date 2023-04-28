@@ -1,0 +1,19 @@
+2023-04-28 02:22:27.493 - Info	
+Packing C:\Users\A\Desktop\onhoverpcf\OnHoverSolnV3\OnHoverSolnV4\obj\Debug\Metadata to bin\Debug\OnHoverSolnV4.zip
+
+2023-04-28 02:22:27.510 - Info	Processing Component: Entities
+2023-04-28 02:22:27.510 - Info	Processing Component: Roles
+2023-04-28 02:22:27.525 - Info	Processing Component: Workflows
+2023-04-28 02:22:27.525 - Info	Processing Component: FieldSecurityProfiles
+2023-04-28 02:22:27.525 - Info	Processing Component: Templates
+2023-04-28 02:22:27.525 - Info	Processing Component: EntityMaps
+2023-04-28 02:22:27.541 - Info	Processing Component: EntityRelationships
+2023-04-28 02:22:27.541 - Info	Processing Component: OrganizationSettings
+2023-04-28 02:22:27.557 - Info	Processing Component: optionsets
+2023-04-28 02:22:27.557 - Info	Processing Component: CustomControls
+2023-04-28 02:22:27.572 - Info	 - onhoverPcfARv4.Onhoverv4
+2023-04-28 02:22:27.616 - Info	Processing Component: SolutionPluginAssemblies
+2023-04-28 02:22:27.620 - Info	Processing Component: EntityDataProviders
+2023-04-28 02:22:27.711 - Info	
+Unmanaged Pack complete.
+

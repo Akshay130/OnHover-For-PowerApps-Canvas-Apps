@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\A\\Desktop\\onhoverpcf\\OnHoverSolnV3\\OnHoverSolnV4\\OnHoverSolnV4.cdsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\A\\Desktop\\onhoverpcf\\New folder (3).pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A\\Desktop\\onhoverpcf\\New folder (3).pcfproj",
+        "projectName": "New folder (3)",
+        "projectPath": "C:\\Users\\A\\Desktop\\onhoverpcf\\New folder (3).pcfproj",
+        "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A\\Desktop\\onhoverpcf\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\A\\Desktop\\onhoverpcf\\OnHoverSolnV3\\OnHoverSolnV4\\OnHoverSolnV4.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A\\Desktop\\onhoverpcf\\OnHoverSolnV3\\OnHoverSolnV4\\OnHoverSolnV4.cdsproj",
+        "projectName": "OnHoverSolnV4",
+        "projectPath": "C:\\Users\\A\\Desktop\\onhoverpcf\\OnHoverSolnV3\\OnHoverSolnV4\\OnHoverSolnV4.cdsproj",
+        "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A\\Desktop\\onhoverpcf\\OnHoverSolnV3\\OnHoverSolnV4\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "C:\\Users\\A\\Desktop\\onhoverpcf\\New folder (3).pcfproj": {
+                "projectPath": "C:\\Users\\A\\Desktop\\onhoverpcf\\New folder (3).pcfproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
