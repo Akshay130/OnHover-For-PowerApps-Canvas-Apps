@@ -5,5 +5,6 @@ Key Features -
 - Get latest mouse coordinates.
 
 For Detailed Implementation and use cases, refer "OnHoverDemo.msapp".
+(https://github.com/Akshay130/OnHover-For-PowerApps-Canvas-Apps/blob/main/OnHoverDemo.msapp)
 
 NOTE:Prefer Long Press to trigger OnCkick.
