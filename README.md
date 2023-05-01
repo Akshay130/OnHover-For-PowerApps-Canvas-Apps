@@ -1,7 +1,7 @@
 # OnHover-For-PowerApps-Canvas-Apps
 Key Features -
 - Trigger Canvas App commands on mouse hover.
-- Alter Style Properties Of Control like Height,Width,Visibility,etc just by mouse hover.
+- Alter Style Properties to Control like Height,Width,Visibility,etc just by mouse hover.
 - Get latest mouse coordinates.
 - Can be used to determine wether the screen is Inactive or not.
 - Add Screen Timeout functionality to you canvas app.
